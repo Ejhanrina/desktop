@@ -55,7 +55,7 @@
     "yarn": ">= 1.9"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.6.0",
     "airbnb-browser-shims": "^3.0.0",
     "ajv": "^6.4.0",
