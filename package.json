@@ -95,7 +95,7 @@
     "octicons": "^8.2.0",
     "parallel-webpack": "^2.3.0",
     "prettier": "1.16.0",
-    "request": "^2.72.0",
+    "request": "^2.87.0",
     "rimraf": "^2.5.2",
     "sass-loader": "^7.0.1",
     "semver": "^5.5.0",
