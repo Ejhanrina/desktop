@@ -113,6 +113,11 @@
     lodash "^4.17.5"
     to-fast-properties "^2.0.0"
 
+"@snyk/protect@^1.1163.0":
+  version "1.1163.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1163.0.tgz#68ce3764e40aa3b8ef434e0d72f157258637f102"
+  integrity sha512-pwUwun+dukyPZFgglH7w13laMrtddL306HzxXNDKX9o3j8ay16blAKau/iI/asiL9czAaTbibxbS9KSZSxryng==
+
 "@types/body-parser@*":
   version "1.16.8"
   resolved "https://registry.yarnpkg.com/@types/body-parser/-/body-parser-1.16.8.tgz#687ec34140624a3bec2b1a8ea9268478ae8f3be3"
