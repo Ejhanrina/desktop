@@ -42,7 +42,9 @@
     "changelog": "ts-node script/changelog/index.ts",
     "draft-release": "ts-node script/draft-release/index.ts",
     "validate-changelog": "ts-node script/validate-changelog.ts",
-    "check-modified": "stop-build"
+    "check-modified": "stop-build",
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
   },
   "author": {
     "name": "GitHub, Inc.",
@@ -117,7 +119,8 @@
     "webpack-hot-middleware": "^2.22.2",
     "webpack-merge": "^4.1.2",
     "xml2js": "^0.4.16",
-    "xvfb-maybe": "^0.2.1"
+    "xvfb-maybe": "^0.2.1",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "@types/byline": "^4.2.31",
@@ -171,5 +174,6 @@
   },
   "resolutions": {
     "**/@types/node": "10.1.4"
-  }
+  },
+  "snyk": true
 }
