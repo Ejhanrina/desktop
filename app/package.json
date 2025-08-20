@@ -40,7 +40,7 @@
     "moment": "^2.24.0",
     "mri": "^1.1.0",
     "p-limit": "^2.2.0",
-    "primer-support": "^4.0.0",
+    "primer-support": "^4.7.2",
     "queue": "^4.4.2",
     "quick-lru": "^3.0.0",
     "react": "^16.3.2",
